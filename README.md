@@ -10,6 +10,6 @@ Passionate about programming and technology.
 
 Dedicated student seeking knowledge and skills in software development. Always looking for new challenges and projects to improve my skills and contribute to the digital world.
 
-Lover of games, movies and music. Python, JavaScript and C++ enthusiast. Constantly learning and evolving!
+Lover of games, movies and music. Java, Python and JavaScript enthusiast. Constantly learning and evolving!
 
 #programação #webdevelopment #automatic learning #javascript #python #C++ #programming student #technology.
