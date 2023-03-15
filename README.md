@@ -12,4 +12,4 @@ Dedicated student seeking knowledge and skills in software development. Always l
 
 Lover of games, movies and music. Java, Python and JavaScript enthusiast. Constantly learning and evolving!
 
-#programação #webdevelopment #automatic learning #javascript #python #C++ #programming student #technology.
+#programação #webdevelopment #automatic learning #javascript #python #java #programming student #technology.
