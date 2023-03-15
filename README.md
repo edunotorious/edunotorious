@@ -2,9 +2,9 @@
 
 Software Engineering Student @FIAP.
 
-[![Twitter Badge](https://img.shields.io/badge/-@edunotorious-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/edunotorious) 
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Gomes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-gomes-491755191/)](https://www.linkedin.com/in/eduardo-gomes-491755191/) 
-[![Gmail Badge](https://img.shields.io/badge/-eduardogomespinho@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardogomespinho@gmail.com)](mailto:eduardogomespinho@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@edunotorious-0a66c2?style=flat-square&labelColor=0a66c2&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/edunotorious) 
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Gomes-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-gomes-491755191/)](https://www.linkedin.com/in/eduardo-gomes-491755191/) 
+[![Gmail Badge](https://img.shields.io/badge/-eduardogomespinho@gmail.com-0a66c2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardogomespinho@gmail.com)](mailto:eduardogomespinho@gmail.com)
 
 Passionate about programming and technology.
 
