@@ -6,9 +6,10 @@ Software Engineering Student @FIAP.
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Gomes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-gomes-491755191/)](https://www.linkedin.com/in/eduardo-gomes-491755191/) 
 [![Gmail Badge](https://img.shields.io/badge/-eduardogomespinho@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardogomespinho@gmail.com)](mailto:eduardogomespinho@gmail.com)
 
-Enthusiast of the best web & mobile development technologies.
+Passionate about programming and technology.
 
-Passionate about education and changing people's lives through programming. More than 200,000 people have already undergone one of my trainings.
+Dedicated student seeking knowledge and skills in software development. Always looking for new challenges and projects to improve my skills and contribute to the digital world.
 
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+Lover of games, movies and music. Python, JavaScript and C++ enthusiast. Constantly learning and evolving!
 
+#programação #webdevelopment #automatic learning #javascript #python #C++ #programming student #technology.
